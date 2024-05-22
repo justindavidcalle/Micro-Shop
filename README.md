@@ -11,5 +11,7 @@ Unsere Services sind:
 * Produktkatalog
 * Kundenverwaltung
 * Zahlungsservice
-* Warenkorb 
+* Warenkorb
+
+
 ![microStructure](./asset/microStructure.png)
